@@ -1,9 +1,11 @@
 .App {
   text-align: center;
+  /* font-family: 'Quicksand', sans-serif;
+  font-weight: 300; */
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,19 +19,48 @@
   color: white;
   padding-left: 5px;
   padding-right: 5px;
-  transition: all 0.8s;
   margin: 4px;
+  transition: all 0.5s;
 }
 
 .fa-linkedin:hover {
   color: #2867b2;
+  text-decoration: none;
 }
 
 .fa-github:hover {
-  color: #000;
+  color: #6e5494;
+  color: #767676;
+  text-decoration: none;
+}
+
+.fa-instagram {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -webkit-radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.fa-instagram:hover {
+  color: transparent;
+  text-decoration: none;
 }
 
 .fa-envelope:hover {
-  /* color: #0072c6; */
   color: #f1d592;
+  text-decoration: none;
 }
