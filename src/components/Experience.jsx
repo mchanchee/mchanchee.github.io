@@ -7,7 +7,7 @@ import "./Experience.css";
 
 function Experience() {
   return (
-    <div id="experience" className="experiences jumbotron jumbotron-fluid m-0">
+    <div id="experience" className="jumbotron jumbotron-fluid m-0">
       <div className="container">
         <h1 className="experience-title display-3">Work Experience</h1>
         {/* AMD */}

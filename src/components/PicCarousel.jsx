@@ -1,6 +1,7 @@
 import React from "react";
-import "./PicCarousel.css";
 import Carousel from "react-bootstrap/Carousel";
+
+import "./PicCarousel.css";
 import dragonBoat from "../images/dragon-boat.jpg";
 import laureate from "../images/laureate.jpg";
 import lionDance from "../images/lion-dance.jpg";

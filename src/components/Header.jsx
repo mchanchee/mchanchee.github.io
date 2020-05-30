@@ -3,6 +3,7 @@ import React from "react";
 // import Nav from "react-bootstrap/Nav";
 import Particles from "react-particles-js";
 import Typist from "react-typist";
+
 import "./Header.css";
 import matthieu from "../images/matthieu.jpg";
 

@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div id="contact" className="footer jumbotron jumbotron-fluid m-0">
+    <div id="contact" className="jumbotron jumbotron-fluid m-0">
       <div className="container mb-4">
         <h1 className="display-3 contact-title">Contact me</h1>
         <div className="social-networks">

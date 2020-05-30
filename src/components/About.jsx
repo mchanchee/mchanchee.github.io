@@ -4,7 +4,7 @@ import PicCarousel from "./PicCarousel";
 
 function About() {
   return (
-    <div id="about" className="jumbotron jumbotron-fluid m-0 about">
+    <div id="about" className="jumbotron jumbotron-fluid m-0">
       <div className="container">
         <div className="row">
           {/* Picture */}
