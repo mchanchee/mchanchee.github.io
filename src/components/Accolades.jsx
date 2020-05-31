@@ -8,7 +8,7 @@ function Accolades() {
       className="jumbotron jumbotron-fluid m-0"
     >
       <div className="container">
-        <h1 className="title display-3">
+        <h1 className="title display-3 pb-3">
           Accolades
         </h1>
 

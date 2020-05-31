@@ -1,0 +1,22 @@
+.black-navbar {
+  background-color: black;
+}
+
+.navbar-title {
+  font-size: 1.5rem;
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+.navbar-option {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.navbar-option:hover {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.my-active .nav-link {
+  border-bottom: 1px solid #fff;
+  color: #fff !important;
+}

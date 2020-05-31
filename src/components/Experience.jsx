@@ -47,10 +47,24 @@ function Experience() {
             </h4>
 
             <p>
-              - Trained a handwritten signature-detection system with
-              Tensorboard integration.
+              - Trained a handwritten signature-detection system with{" "}
+              <a
+                href="https://www.tensorflow.org/tensorboard"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Tensorboard
+              </a>{" "}
+              integration.
               <br />- Automated the creation, manipulation and results
-              collection of Human Intelligence Tasks (HIT) using Amazon MTurk
+              collection of HITs (Human Intelligence Tasks) using{" "}
+              <a
+                href="https://www.mturk.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Amazon MTurk
+              </a>{" "}
               API for classifying tax forms and mapping their fields.
             </p>
           </div>

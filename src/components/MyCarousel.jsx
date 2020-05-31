@@ -1,13 +1,13 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 
-import "./PicCarousel.css";
+import "./MyCarousel.css";
 import dragonBoat from "../images/dragon-boat.jpg";
 import laureate from "../images/laureate.jpg";
 import lionDance from "../images/lion-dance.jpg";
 import munGA from "../images/mun-ga.jpg";
 
-function PicCarousel() {
+function MyCarousel() {
   return (
     <Carousel interval={3000}>
       <Carousel.Item>
@@ -41,4 +41,4 @@ function PicCarousel() {
   );
 }
 
-export default PicCarousel;
+export default MyCarousel;

@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import PicCarousel from "./PicCarousel";
+import MyCarousel from "./MyCarousel";
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
         <div className="row">
           {/* Picture */}
           <div className="col-md-6 order-md-2 align-self-center">
-            <PicCarousel />
+            <MyCarousel />
           </div>
 
           {/* Description */}
