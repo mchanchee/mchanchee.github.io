@@ -48,7 +48,7 @@ function Accolades() {
           <li>
             In Mauritius, the <strong>top 9</strong> science students{" "}
             <strong>across the country</strong> at the{" "}
-            <strong>Cambridge A-Level</strong> are awarded the title of{" "}
+            <strong>Cambridge A Level</strong> are awarded the title of{" "}
             <strong>'Laureate'</strong> and university scholarships from the
             Government. In 2017, I became the{" "}
             <strong>first Computer Science Laureate in history</strong>.

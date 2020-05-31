@@ -15,14 +15,15 @@ function App() {
       <Experience />
       <Accolades />
       <Footer />
+
       <Particles
         className="particles-position"
         params={{
           particles: {
             number: {
               value: Math.floor(
-                Math.max(window.innerHeight, window.innerWidth) / 30
-              ), // Around 50 on desktop,
+                Math.max(window.innerHeight, window.innerWidth) / 20
+              ), // Around 90 on desktop,
             },
             size: {
               value: 1,
