@@ -1,7 +1,13 @@
 {
-  "name": "mauritian-parakeet",
+  "name": "personal-website",
+  "homepage": "https://mchanchee.github.io/",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Matthieu Chan Chee",
+    "email": "matthieuchanchee@gmail.com",
+    "url": "https://github.com/mchanchee"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -17,6 +23,8 @@
     "react-typist": "^2.0.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
   }
 }
