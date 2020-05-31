@@ -31,6 +31,19 @@ function Accolades() {
             <strong>Ranked 1st</strong> at National Mathematics Olympiad 2016
           </li>
 
+          {/* Wushu */}
+          <li>
+            {" "}
+            <strong>Gold medallist</strong> and triple{" "}
+            <strong>silver medallist</strong> at National Kung Fu Championships
+          </li>
+
+          {/* Dragon Boat */}
+          <li>
+            Triple <strong>bronze medallist</strong> at National Dragon Boat
+            Competition
+          </li>
+
           {/* Laureate */}
           <li>
             In Mauritius, the <strong>top 9</strong> science students{" "}
@@ -65,19 +78,6 @@ function Accolades() {
             <strong>Secretary-General</strong> at the{" "}
             <strong>head of 18 Chairpersons</strong> for the Model UN Conference
             2016
-          </li>
-
-          {/* Wushu */}
-          <li>
-            {" "}
-            <strong>Gold medallist</strong> and triple{" "}
-            <strong>silver medallist</strong> at National Wushu Championships
-          </li>
-
-          {/* Dragon Boat */}
-          <li>
-            Triple <strong>bronze medallist</strong> at National Dragon Boat
-            Competition
           </li>
 
           {/* TLI */}

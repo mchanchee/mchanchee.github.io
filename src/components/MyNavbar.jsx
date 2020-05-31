@@ -18,7 +18,7 @@ function MyNavbar() {
       <Navbar.Brand>
         <Link
           className="lead"
-            activeClass="my-active"
+          activeClass="my-active"
           to="index"
           spy={true}
           smooth={true}

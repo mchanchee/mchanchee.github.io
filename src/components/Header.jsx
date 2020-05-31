@@ -81,7 +81,6 @@ function Header() {
       </header>
 
       {/* The Particles will come on top of the previous component */}
-      
     </div>
   );
 }
