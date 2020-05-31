@@ -4,6 +4,24 @@
   font-weight: 300; */
 }
 
+/* Use z-index of other components to make particles visible or not
+Note: z-index only works on positioned elements (position: absolute, 
+position: relative, position: fixed, or position: sticky).
+*/
+.particles-position {
+  /* background-color: red; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.above-particles {
+  position: relative;
+  z-index: 1;
+}
+
 /* Social networks */
 .social-networks {
   padding-top: 20px;

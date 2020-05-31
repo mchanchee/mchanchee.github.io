@@ -1,16 +1,14 @@
 import React from "react";
-import "./Accolades.css"
+import "./Accolades.css";
 
 function Accolades() {
   return (
     <div
       id="accolades"
-      className="jumbotron jumbotron-fluid m-0"
+      className="above-particles jumbotron jumbotron-fluid m-0"
     >
       <div className="container">
-        <h1 className="title display-3 pb-3">
-          Accolades
-        </h1>
+        <h1 className="title display-3 pb-3">Accolades</h1>
 
         <ul className="accolade-list">
           {/* Pearson */}
@@ -35,7 +33,12 @@ function Accolades() {
 
           {/* Laureate */}
           <li>
-            In Mauritius, the <strong>top 9</strong> science students <strong>across the country</strong> at the <strong>Cambridge A-Level</strong> are awarded the title of <strong>'Laureate'</strong> and university scholarships from the Government. In 2017, I became the <strong>first Computer Science Laureate in history</strong>.
+            In Mauritius, the <strong>top 9</strong> science students{" "}
+            <strong>across the country</strong> at the{" "}
+            <strong>Cambridge A-Level</strong> are awarded the title of{" "}
+            <strong>'Laureate'</strong> and university scholarships from the
+            Government. In 2017, I became the{" "}
+            <strong>first Computer Science Laureate in history</strong>.
           </li>
 
           {/* MakeUofT */}
@@ -91,6 +94,18 @@ function Accolades() {
             at the <strong>University of Toronto</strong>
           </li>
 
+          {/* Dean's List */}
+          <li>
+            CGPA 4.0/4.0,{" "}
+            <a
+              href="https://fas.calendar.utoronto.ca/academic-record#recog-acad-achievement"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Dean's List Scholar
+            </a>{" "}
+            all years
+          </li>
         </ul>
       </div>
     </div>

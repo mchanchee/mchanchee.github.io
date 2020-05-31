@@ -18,6 +18,7 @@ function MyNavbar() {
       <Navbar.Brand>
         <Link
           className="lead"
+            activeClass="my-active"
           to="index"
           spy={true}
           smooth={true}
@@ -34,7 +35,7 @@ function MyNavbar() {
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto">
           <Link
-            className="lead section-link"
+            className="lead"
             activeClass="my-active"
             to="about"
             spy={true}
@@ -48,7 +49,7 @@ function MyNavbar() {
           </Link>
 
           <Link
-            className="lead section-link"
+            className="lead"
             activeClass="my-active"
             to="experience"
             spy={true}
@@ -62,7 +63,7 @@ function MyNavbar() {
           </Link>
 
           <Link
-            className="lead section-link"
+            className="lead"
             activeClass="my-active"
             to="accolades"
             spy={true}

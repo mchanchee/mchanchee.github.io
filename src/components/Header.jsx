@@ -1,5 +1,4 @@
 import React from "react";
-import Particles from "react-particles-js";
 import Typist from "react-typist";
 
 import "./Header.css";
@@ -82,29 +81,7 @@ function Header() {
       </header>
 
       {/* The Particles will come on top of the previous component */}
-      <Particles
-        className="particles-position"
-        params={{
-          particles: {
-            number: {
-              value: Math.floor(
-                Math.max(window.innerHeight, window.innerWidth) / 30
-              ), // Around 50 on desktop,
-            },
-            size: {
-              value: 1,
-            },
-          },
-          interactivity: {
-            events: {
-              onhover: {
-                enable: true,
-                mode: "repulse",
-              },
-            },
-          },
-        }}
-      />
+      
     </div>
   );
 }

@@ -4,7 +4,7 @@ import MyCarousel from "./MyCarousel";
 
 function About() {
   return (
-    <div id="about" className="jumbotron jumbotron-fluid m-0">
+    <div id="about" className="above-particles jumbotron jumbotron-fluid m-0">
       <div className="container">
         <div className="row">
           {/* Picture */}
