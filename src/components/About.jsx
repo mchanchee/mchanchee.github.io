@@ -17,7 +17,7 @@ function About() {
             <h1 className="title display-4 mb-4 pt-3">
               Hello world, it's Matthieu!
             </h1>
-            <p className="" style={{textAlign: "justify"}}>
+            <p className="description">
               {/* I'm from Mauritius, a small island in the Indian Ocean. My long-term goal is to drive to the technological advancement of my country. This drive for progress led me to become one of the 37 worldwide recipients of the Pearson Scholarship from the University of Toronto. My passion for mathematics and problem-solving led me to rank 1st at the National Mathematics Olympiad 2016 and being appointed as Calculus Teaching Assistant during my 2nd year at UofT. */}
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text

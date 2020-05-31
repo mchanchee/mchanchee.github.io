@@ -10,6 +10,13 @@
   color: white;
 }
 
+
+.section-link.yeet {
+  border-bottom: 1px solid #fff;
+  color: #fff !important;
+  /* color: white; doesn't work */
+}
+
 .particles-position {
   position: absolute;
   top: 0;

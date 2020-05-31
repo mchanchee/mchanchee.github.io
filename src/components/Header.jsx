@@ -1,34 +1,19 @@
 import React from "react";
-// import Navbar from "react-bootstrap/Navbar";
-// import Nav from "react-bootstrap/Nav";
 import Particles from "react-particles-js";
 import Typist from "react-typist";
 
 import "./Header.css";
 import matthieu from "../images/matthieu.jpg";
+import MyNavbar from "./MyNavbar";
 
 function Header() {
   return (
     <div>
       {/* Navbar */}
-      {/* <Navbar fixed="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand>Matthieu</Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="ml-auto">
-            <Nav.Link href="#about">About
-            </Nav.Link>
-            <Nav.Link href="#experience">Experience
-            </Nav.Link>
-            <Nav.Link href="#accolades">Accolades
-            </Nav.Link>
-            <Nav.Link href="#contact">Contact me</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Navbar> */}
+      <MyNavbar />
 
       {/* Cover */}
-      <header className="App-header">
+      <header id="index" className="App-header">
         <div className="container">
           <div className="row">
             {/* Picture */}

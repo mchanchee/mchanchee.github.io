@@ -5,3 +5,7 @@
 .title {
   font-size: 3rem;
 }
+
+.description {
+  text-align: justify;
+}
