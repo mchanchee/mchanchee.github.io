@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40441812cbb2f304da7402ce858c85a6",
+    "revision": "cf5b43d3dccfeb31a3807414fcd8989d",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4336053b556fff8e9347",
+    "revision": "5e12b840772fce763b91",
     "url": "/static/css/main.f0782530.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.6b64a8dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4336053b556fff8e9347",
-    "url": "/static/js/main.d431395e.chunk.js"
+    "revision": "5e12b840772fce763b91",
+    "url": "/static/js/main.2bad2856.chunk.js"
   },
   {
     "revision": "4ac598fa20d7619937c8",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dragon-boat.6714bceb.jpg"
   },
   {
-    "revision": "5c921e76f94e08d230b021fa44fccc62",
-    "url": "/static/media/laureate.5c921e76.jpg"
+    "revision": "776b2f88e59581a22ebed65164c95f77",
+    "url": "/static/media/laureate.776b2f88.jpg"
   },
   {
     "revision": "5d709876c98a4f0220dbb8790cc2b052",
