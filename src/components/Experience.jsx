@@ -18,7 +18,7 @@ function Experience() {
           <div className="job-description col-md-9 order-md-2">
             <h3 className="job-heading display-4 pt-3">AMD</h3>
             <h4 className="text-muted job-subheading display-4">
-              Machine Learning Developer
+              Machine Learning Developer Intern
             </h4>
             <h4 className="text-muted job-subheading display-4">
               June 2020 - Present
