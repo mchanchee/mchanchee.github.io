@@ -15,68 +15,70 @@ function MyNavbar() {
       expand="lg"
       variant="dark"
     >
-      <Navbar.Brand>
-        <Link
-          className="lead"
-          activeClass="my-active"
-          to="index"
-          spy={true}
-          smooth={true}
-          offset={0}
-          duration={500}
-        >
-          <a href="#index" className="navbar-title">
-            {"< "}Matthieu{" />"}
-          </a>
-        </Link>
-      </Navbar.Brand>
-
-      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-      <Navbar.Collapse id="responsive-navbar-nav">
-        <Nav className="ml-auto">
+      <div className="container">
+        <Navbar.Brand>
           <Link
             className="lead"
             activeClass="my-active"
-            to="about"
+            to="index"
             spy={true}
             smooth={true}
-            offset={offset}
+            offset={0}
             duration={500}
           >
-            <Nav.Link className="lead navbar-option" eventKey={1}>
-              About
-            </Nav.Link>
+            <a href="#index" className="navbar-title">
+              {"< "}Matthieu{" />"}
+            </a>
           </Link>
+        </Navbar.Brand>
 
-          <Link
-            className="lead"
-            activeClass="my-active"
-            to="experience"
-            spy={true}
-            smooth={true}
-            offset={offset}
-            duration={500}
-          >
-            <Nav.Link className="lead navbar-option" eventKey={2}>
-              Experience
-            </Nav.Link>
-          </Link>
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="ml-auto">
+            <Link
+              className="lead"
+              activeClass="my-active"
+              to="about"
+              spy={true}
+              smooth={true}
+              offset={offset}
+              duration={500}
+            >
+              <Nav.Link className="lead navbar-option" eventKey={1}>
+                About
+              </Nav.Link>
+            </Link>
 
-          <Link
-            className="lead"
-            activeClass="my-active"
-            to="accolades"
-            spy={true}
-            smooth={true}
-            offset={offset}
-            duration={500}
-          >
-            <Nav.Link className="lead navbar-option" eventKey={3}>
-              Accolades
-            </Nav.Link>
-          </Link>
-        </Nav>
-      </Navbar.Collapse>
+            <Link
+              className="lead"
+              activeClass="my-active"
+              to="experience"
+              spy={true}
+              smooth={true}
+              offset={offset}
+              duration={500}
+            >
+              <Nav.Link className="lead navbar-option" eventKey={2}>
+                Experience
+              </Nav.Link>
+            </Link>
+
+            <Link
+              className="lead"
+              activeClass="my-active"
+              to="accolades"
+              spy={true}
+              smooth={true}
+              offset={offset}
+              duration={500}
+            >
+              <Nav.Link className="lead navbar-option" eventKey={3}>
+                Accolades
+              </Nav.Link>
+            </Link>
+          </Nav>
+        </Navbar.Collapse>
+      </div>
     </Navbar>
   );
 }
