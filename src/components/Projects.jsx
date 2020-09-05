@@ -78,7 +78,7 @@ function Projects() {
                   {" "}
                   Unspoken Words
                 </a>
-                , a public speaking platform in Mauritius. The video (available{" "}
+                , a public speaking platform in my home country Mauritius. The video (available{" "}
                 <a
                   href="https://www.facebook.com/unspokenw404/videos/547809832581545/"
                   target="_blank"
