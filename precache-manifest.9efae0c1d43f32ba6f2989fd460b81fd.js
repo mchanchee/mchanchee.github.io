@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "786fb18e4d187594c06487a6c4d93cb6",
+    "revision": "5a02c57e3e3e911fba2d99fdd872774b",
     "url": "/index.html"
   },
   {
-    "revision": "c5c6a3be024808309757",
+    "revision": "9d16a45694244d9134ec",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9fc4396bd171b4b6feec",
-    "url": "/static/css/main.787d7232.chunk.css"
+    "revision": "a18103e3386c8b3487f1",
+    "url": "/static/css/main.1c1fb3d3.chunk.css"
   },
   {
-    "revision": "c5c6a3be024808309757",
-    "url": "/static/js/2.6b64a8dd.chunk.js"
+    "revision": "9d16a45694244d9134ec",
+    "url": "/static/js/2.f3450a80.chunk.js"
   },
   {
     "revision": "a73511fdd0e79fea52c5f42ad1574633",
-    "url": "/static/js/2.6b64a8dd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f3450a80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fc4396bd171b4b6feec",
-    "url": "/static/js/main.23e9b838.chunk.js"
+    "revision": "a18103e3386c8b3487f1",
+    "url": "/static/js/main.6cb89320.chunk.js"
   },
   {
     "revision": "4ac598fa20d7619937c8",
@@ -32,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/amd.53d2d08d.jpg"
   },
   {
+    "revision": "ebefdeab1d9b78a4efdd88f33758d867",
+    "url": "/static/media/autoronto.ebefdeab.jpg"
+  },
+  {
     "revision": "079c9fb6fc649be64fd96848f141cb18",
     "url": "/static/media/avalara.079c9fb6.png"
+  },
+  {
+    "revision": "c800ade926caa2aa5dab7d6fea86ccfe",
+    "url": "/static/media/cwanabee.c800ade9.JPG"
   },
   {
     "revision": "6714bceb7e8a24834e2578d925178c74",
@@ -58,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d71514878ff3a3e3d18622c546616414",
     "url": "/static/media/mun-ga.d7151487.jpg"
+  },
+  {
+    "revision": "f7719179440055e242196e2f6ec62af9",
+    "url": "/static/media/unspoken-words.f7719179.png"
   },
   {
     "revision": "4eeccce85faef4be7e162c194eed044f",
