@@ -66,13 +66,27 @@ function MyNavbar() {
             <Link
               className="lead"
               activeClass="my-active"
-              to="accolades"
+              to="projects"
               spy={true}
               smooth={true}
               offset={offset}
               duration={500}
             >
               <Nav.Link className="lead navbar-option" eventKey={3}>
+                Projects
+              </Nav.Link>
+            </Link>
+
+            <Link
+              className="lead"
+              activeClass="my-active"
+              to="accolades"
+              spy={true}
+              smooth={true}
+              offset={offset}
+              duration={500}
+            >
+              <Nav.Link className="lead navbar-option" eventKey={4}>
                 Accolades
               </Nav.Link>
             </Link>

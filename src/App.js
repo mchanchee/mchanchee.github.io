@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import About from "./components/About";
 import Experience from "./components/Experience";
+import Projects from "./components/Projects";
 import Accolades from "./components/Accolades";
 import Footer from "./components/Footer";
 import Particles from "react-particles-js";
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <About />
       <Experience />
+      <Projects />
       <Accolades />
       <Footer />
 

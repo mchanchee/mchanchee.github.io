@@ -46,9 +46,8 @@ function Accolades() {
 
           {/* Laureate */}
           <li>
-            In Mauritius, the <strong>top 9</strong> science students{" "}
-            <strong>across the country</strong> at the{" "}
-            <strong>Cambridge A Level</strong> are awarded the title of{" "}
+            In Mauritius, the <strong>national top 9</strong> science students{" "}
+            at the <strong>Cambridge A Level</strong> are awarded the title of{" "}
             <strong>'Laureate'</strong> and university scholarships from the
             Government. In 2017, I became the{" "}
             <strong>first Computer Science Laureate in history</strong>.
@@ -56,7 +55,7 @@ function Accolades() {
 
           {/* MakeUofT */}
           <li>
-            <strong>Won </strong>
+            Won{" "}
             <a
               href="https://devpost.com/software/intelligent-agriculture-analytics-with-iot-edge"
               target="_blank"
@@ -67,6 +66,19 @@ function Accolades() {
             </a>{" "}
             at MakeUofT 2019,{" "}
             <strong>Canada's largest hardware hackathon</strong>
+          </li>
+
+          {/* CUSEC */}
+          <li>
+            University of Toronto's <strong>Head of Delegation</strong> at the{" "}
+            <a
+              href="https://2021.cusec.net/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Canadian University Software Engineering Conference 2021
+            </a>
+            .
           </li>
 
           {/* MUN */}
