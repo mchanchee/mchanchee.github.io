@@ -28,19 +28,19 @@ function Accolades() {
 
           {/* NMO */}
           <li>
-            <strong>Ranked 1st</strong> at National Mathematics Olympiad 2016
+            <strong>Ranked 1st</strong> at the National Mathematics Olympiad 2016
           </li>
 
           {/* Wushu */}
           <li>
             {" "}
             <strong>Gold medallist</strong> and triple{" "}
-            <strong>silver medallist</strong> at National Kung Fu Championships
+            <strong>silver medallist</strong> at the National Kung Fu Championships
           </li>
 
           {/* Dragon Boat */}
           <li>
-            Triple <strong>bronze medallist</strong> at National Dragon Boat
+            Triple <strong>bronze medallist</strong> at the National Dragon Boat
             Competition
           </li>
 

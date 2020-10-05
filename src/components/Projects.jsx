@@ -30,14 +30,14 @@ function Projects() {
                 >
                   aUToronto
                 </a>
-                , UofT's self-driving car team. We are the 2018 and 2019
+                , UofT's self-driving car team. <br/><br/>We are the 2018, 2019 and 2020
                 Champions of North America at the{" "}
                 <a
                   href="https://www.sae.org/attend/student-events/autodrive-challenge/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  SAE/GM AutoDrive Challenge
+                  SAE International AutoDrive Challenge
                 </a>
                 .
               </Card.Text>
@@ -78,7 +78,8 @@ function Projects() {
                   {" "}
                   Unspoken Words
                 </a>
-                , a public speaking platform in my home country Mauritius. The video (available{" "}
+                , a public speaking platform in my home country Mauritius. The
+                video (available{" "}
                 <a
                   href="https://www.facebook.com/unspokenw404/videos/547809832581545/"
                   target="_blank"
