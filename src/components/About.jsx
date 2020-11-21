@@ -16,13 +16,11 @@ function About() {
           <div className="col-md-6 order-md-1">
             <h1 className="title display-4 mb-4 pt-3">Hi! I'm Matthieu,</h1>
             <p className="description">
-              {/* I'm from Mauritius, a small island in the Indian Ocean. My long-term goal is to drive to the technological advancement of my country. This drive for progress led me to become one of the 37 worldwide recipients of the Pearson Scholarship from the University of Toronto. My passion for mathematics and problem-solving led me to rank 1st at the National Mathematics Olympiad 2016 and being appointed as Calculus Teaching Assistant during my 2nd year at UofT. */}
               an avid learner, hacker and problem-solver. I study{" "}
               <strong>Computer Science, Statistics and Math</strong> at the
               University of Toronto, with a focus on{" "}
-              <strong>Artificial Intelligence</strong>. My interests lie in
-              Machine Learning and Computer Vision. Currently, I'm on a 12-month
-              co-op at{" "}
+              <strong>Artificial Intelligence</strong>. Currently, I'm on a 12-month
+              internship at{" "}
               <a
                 href="https://www.amd.com/"
                 target="_blank"
@@ -30,7 +28,7 @@ function About() {
               >
                 AMD
               </a>
-              .
+              , where I work on Machine Learning and Computer Vision.
               <br />
               <br />
 
@@ -44,7 +42,7 @@ function About() {
               >
                 Pearson Scholarship
               </a>
-              . I was also Mauritius' first ever Computer Science Laureate (national top 9 students at Cambridge A Level).
+              {" "}(~$280k). I was also Mauritius' first ever Computer Science Laureate (national top 9 students at Cambridge A Level).
               <br />
               <br />
 

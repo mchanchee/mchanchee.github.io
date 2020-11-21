@@ -5,6 +5,7 @@ import "./MyCarousel.css";
 import dragonBoat from "../images/dragon-boat.jpg";
 import laureate from "../images/laureate.jpg";
 import lionDance from "../images/lion-dance.jpg";
+import kungFu from "../images/kung-fu.jpg";
 import munGA from "../images/mun-ga.jpg";
 import mauritius from "../images/mauritius.jpg";
 
@@ -43,6 +44,13 @@ function MyCarousel() {
         <img className="d-block w-100" src={lionDance} alt="Lion dance" />
         <Carousel.Caption>
           <span className="lead label">Lion dance</span>
+        </Carousel.Caption>
+      </Carousel.Item>
+
+      <Carousel.Item>
+        <img className="d-block w-100" src={kungFu} alt="Kung Fu" />
+        <Carousel.Caption>
+          <span className="lead label">Kung Fu</span>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

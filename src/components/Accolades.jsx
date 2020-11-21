@@ -22,7 +22,7 @@ function Accolades() {
             >
               Lester B. Pearson International Scholarship
             </a>
-            , a <strong>4-year full-ride</strong> scholarship from the
+            , a <strong>4-year full-ride</strong> scholarship (~$280k) from the
             University of Toronto
           </li>
 
