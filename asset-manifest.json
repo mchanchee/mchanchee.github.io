@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.1c1fb3d3.chunk.css",
-    "main.js": "/static/js/main.362be104.chunk.js",
-    "main.js.map": "/static/js/main.362be104.chunk.js.map",
+    "main.js": "/static/js/main.d3b87fed.chunk.js",
+    "main.js.map": "/static/js/main.d3b87fed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.90834230.js",
     "runtime-main.js.map": "/static/js/runtime-main.90834230.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f3450a80.chunk.js": "/static/js/2.f3450a80.chunk.js",
-    "static/js/2.f3450a80.chunk.js.map": "/static/js/2.f3450a80.chunk.js.map",
+    "static/js/2.afa8731a.chunk.js": "/static/js/2.afa8731a.chunk.js",
+    "static/js/2.afa8731a.chunk.js.map": "/static/js/2.afa8731a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a13ea89b307dea80fc9f9f77e010caf1.js": "/precache-manifest.a13ea89b307dea80fc9f9f77e010caf1.js",
+    "precache-manifest.2f89eaf53d4c2c66739d5f278fd179c7.js": "/precache-manifest.2f89eaf53d4c2c66739d5f278fd179c7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.1c1fb3d3.chunk.css.map": "/static/css/main.1c1fb3d3.chunk.css.map",
-    "static/js/2.f3450a80.chunk.js.LICENSE.txt": "/static/js/2.f3450a80.chunk.js.LICENSE.txt",
+    "static/js/2.afa8731a.chunk.js.LICENSE.txt": "/static/js/2.afa8731a.chunk.js.LICENSE.txt",
     "static/media/amd.jpg": "/static/media/amd.53d2d08d.jpg",
     "static/media/autoronto.jpg": "/static/media/autoronto.ebefdeab.jpg",
     "static/media/avalara.png": "/static/media/avalara.079c9fb6.png",
     "static/media/cwanabee.JPG": "/static/media/cwanabee.c800ade9.JPG",
     "static/media/dragon-boat.jpg": "/static/media/dragon-boat.6714bceb.jpg",
+    "static/media/kung-fu.jpg": "/static/media/kung-fu.9c6168ef.jpg",
     "static/media/laureate.jpg": "/static/media/laureate.776b2f88.jpg",
     "static/media/lion-dance.jpg": "/static/media/lion-dance.5d709876.jpg",
     "static/media/matthieu.jpg": "/static/media/matthieu.c761ece0.jpg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.90834230.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f3450a80.chunk.js",
+    "static/js/2.afa8731a.chunk.js",
     "static/css/main.1c1fb3d3.chunk.css",
-    "static/js/main.362be104.chunk.js"
+    "static/js/main.d3b87fed.chunk.js"
   ]
 }
