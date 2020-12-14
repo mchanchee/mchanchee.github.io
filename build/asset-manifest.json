@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.1c1fb3d3.chunk.css",
-    "main.js": "/static/js/main.d3b87fed.chunk.js",
-    "main.js.map": "/static/js/main.d3b87fed.chunk.js.map",
+    "main.js": "/static/js/main.46b228c7.chunk.js",
+    "main.js.map": "/static/js/main.46b228c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.90834230.js",
     "runtime-main.js.map": "/static/js/runtime-main.90834230.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.afa8731a.chunk.js": "/static/js/2.afa8731a.chunk.js",
-    "static/js/2.afa8731a.chunk.js.map": "/static/js/2.afa8731a.chunk.js.map",
+    "static/js/2.21772bf3.chunk.js": "/static/js/2.21772bf3.chunk.js",
+    "static/js/2.21772bf3.chunk.js.map": "/static/js/2.21772bf3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2f89eaf53d4c2c66739d5f278fd179c7.js": "/precache-manifest.2f89eaf53d4c2c66739d5f278fd179c7.js",
+    "precache-manifest.a7309ba34a0d5925ae74a9a6019ff20c.js": "/precache-manifest.a7309ba34a0d5925ae74a9a6019ff20c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.1c1fb3d3.chunk.css.map": "/static/css/main.1c1fb3d3.chunk.css.map",
-    "static/js/2.afa8731a.chunk.js.LICENSE.txt": "/static/js/2.afa8731a.chunk.js.LICENSE.txt",
+    "static/js/2.21772bf3.chunk.js.LICENSE.txt": "/static/js/2.21772bf3.chunk.js.LICENSE.txt",
     "static/media/amd.jpg": "/static/media/amd.53d2d08d.jpg",
     "static/media/autoronto.jpg": "/static/media/autoronto.ebefdeab.jpg",
     "static/media/avalara.png": "/static/media/avalara.079c9fb6.png",
@@ -25,14 +25,15 @@
     "static/media/matthieu.jpg": "/static/media/matthieu.c761ece0.jpg",
     "static/media/mauritius.jpg": "/static/media/mauritius.029b57f4.jpg",
     "static/media/mun-ga.jpg": "/static/media/mun-ga.d7151487.jpg",
+    "static/media/projectx.png": "/static/media/projectx.04ba1dfd.png",
     "static/media/unspoken-words.png": "/static/media/unspoken-words.f7719179.png",
     "static/media/uoft.png": "/static/media/uoft.4eeccce8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.90834230.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.afa8731a.chunk.js",
+    "static/js/2.21772bf3.chunk.js",
     "static/css/main.1c1fb3d3.chunk.css",
-    "static/js/main.d3b87fed.chunk.js"
+    "static/js/main.46b228c7.chunk.js"
   ]
 }

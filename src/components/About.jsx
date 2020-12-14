@@ -34,7 +34,7 @@ function About() {
 
               I'm from Mauritius, a small island in the Indian Ocean. In 2017, I
               had the privilege of being among the 37 worldwide recipients of
-              UofT's{" "}
+              the University of Toronto's{" "}
               <a
                 href="https://future.utoronto.ca/pearson/2017-scholars/"
                 target="_blank"
