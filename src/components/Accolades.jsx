@@ -15,18 +15,10 @@ function Accolades() {
           <li>
             {" "}
             <strong>World Champion</strong> of ProjectX 2020, a 3-month global
-            Machine Learning research competition. Our presentation and paper to
-            ICML 2021's TCCML workshop can be found{" "}
+            Machine Learning research competition. Our presentation and paper to{" "}
+            <strong>ICML 2021</strong>'s TCCML workshop can be found{" "}
             <a
               href="https://www.climatechange.ai/papers/icml2021/26"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              here
-            </a>{" "}
-            and a short documentary on our project{" "}
-            <a
-              href="https://www.instagram.com/p/CRegsn9goYp/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -34,6 +26,15 @@ function Accolades() {
             </a>
             .
             <ul>
+              <li>
+                <a
+                  href="https://www.instagram.com/p/CRegsn9goYp/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Short documentary video [2021]
+                </a>
+              </li>
               <li>
                 <a
                   href="https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network"
@@ -121,7 +122,8 @@ function Accolades() {
           <li>
             {" "}
             <strong>Champions of North America</strong> with aUToronto (UofT
-            self-driving car team) at SAE International AutoDrive Challenge 2021.
+            self-driving car team) at SAE International AutoDrive Challenge
+            2021.
             <ul>
               <li>
                 <a
@@ -129,7 +131,8 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  U of T Engineering team places first in AutoDrive Challenge for fourth straight year [2021]
+                  U of T Engineering team places first in AutoDrive Challenge
+                  for fourth straight year [2021]
                 </a>
               </li>
             </ul>
@@ -169,7 +172,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  HSC 2016: the laureates [2017, French]
+                  HSC 2016: The Laureates [2017, French]
                 </a>
               </li>
               <li>
@@ -179,7 +182,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   Matthieu Chan Chee, Laureate of Sir Abdool Raman Osman SC's
-                  2016 batch [2017, French]
+                  class of 2016 [2017, French]
                 </a>
               </li>
               <li>
@@ -194,7 +197,7 @@ function Accolades() {
             </ul>
           </li>
           <br />
-          
+
           {/* Wushu */}
           <li>
             {" "}
@@ -244,9 +247,8 @@ function Accolades() {
             National Model UN Conferences 2015
           </li>
           <li>
-            <strong>Secretary-General</strong> at the{" "}
-            <strong>head of 18 Chairpersons</strong> for the Model UN Conference
-            2016
+            <strong>Secretary-General</strong> of 18 Chairpersons and 196
+            delegates for the Model UN Conference 2016
           </li>
 
           {/* TLI */}
@@ -260,21 +262,11 @@ function Accolades() {
               Technology Leadership Initiative
             </a>
             , a cohort of the <strong>top 25</strong> Computer Science students
-            at the <strong>University of Toronto</strong>
+            at the University of Toronto
           </li>
 
           {/* Dean's List */}
-          <li>
-            CGPA 4.0/4.0,{" "}
-            <a
-              href="https://fas.calendar.utoronto.ca/academic-record#recog-acad-achievement"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Dean's List Scholar
-            </a>{" "}
-            all years
-          </li>
+          <li>CGPA 4.0/4.0, Dean's List Scholar all years</li>
         </ul>
       </div>
     </div>
