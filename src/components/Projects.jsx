@@ -18,12 +18,47 @@ function Projects() {
         <h1 className="title display-3 pb-3">Projects</h1>
 
         <CardDeck>
+        <Card>
+            <Card.Img variant="top" src={projectx} />
+            <Card.Body>
+              <Card.Title>Multiple predictoR Neural ODE</Card.Title>
+              <Card.Text className="project-list">
+                Our UofT team was announced World Champion of the{" "}
+                <a
+                  href="https://www.projectx2020.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ProjectX global ML research competition 2020
+                </a>
+                . We devised a novel neural ODE architecture to learn the dynamics of time-series data via multiple predictors and demonstrated its efficacy on a plant disease dataset.
+                <br />
+                <br />
+                Our ICML 2021 workshop presentation and paper can be found{" "}
+                <a
+                  href="https://www.climatechange.ai/papers/icml2021/26"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                here
+                </a> and a short documentary{" "}
+                <a
+                  href="https://www.instagram.com/p/CRegsn9goYp/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                here
+                </a>.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+
           <Card>
             <Card.Img variant="top" src={autoronto} />
             <Card.Body>
               <Card.Title>aUToronto</Card.Title>
               <Card.Text className="project-list">
-                I'm on the Perception subteam of{" "}
+                I trained object detection models at{" "}
                 <a
                   href="https://www.autodrive.utoronto.ca/"
                   target="_blank"
@@ -31,7 +66,7 @@ function Projects() {
                 >
                   aUToronto
                 </a>
-                , the University of Toronto's self-driving car team. <br/><br/>We are the 2018, 2019 and 2020
+                , the University of Toronto's self-driving car team. <br/><br/>We are the quadruple
                 Champions of North America at the{" "}
                 <a
                   href="https://www.sae.org/attend/student-events/autodrive-challenge/"
@@ -40,7 +75,7 @@ function Projects() {
                 >
                   SAE International AutoDrive Challenge
                 </a>
-                .
+                {" "}(2018, 2019, 2020, 2021).
               </Card.Text>
             </Card.Body>
           </Card>
@@ -78,8 +113,8 @@ function Projects() {
                 >
                   Unspoken Words
                 </a>
-                , a public speaking platform in my home country Mauritius. The
-                video (available{" "}
+                , a public speaking platform in my home country Mauritius. 
+                <br /><br />The video (available{" "}
                 <a
                   href="https://www.facebook.com/unspokenw404/videos/547809832581545/"
                   target="_blank"
@@ -88,33 +123,7 @@ function Projects() {
                   {" "}
                   here
                 </a>
-                ) has reached ~9K views.
-              </Card.Text>
-            </Card.Body>
-          </Card>
-
-          <Card>
-            <Card.Img variant="top" src={projectx} />
-            <Card.Body>
-              <Card.Title>Multiple predictoR Neural ODE</Card.Title>
-              <Card.Text className="project-list">
-                I was part of the 6-student team representing the University of Toronto at{" "}
-                <a
-                  href="https://www.projectx2020.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {" "}
-                  ProjectX 2020
-                </a>
-                , a global Machine Learning research competition. Our team devised a novel neural ODE architecture to learn the dynamics of time-series data via multiple predictors.{" "}
-                <a
-                  href="https://arxiv.org/abs/2012.00752"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  [arxiv]
-                </a>
+                ) has reached 9K views.
               </Card.Text>
             </Card.Body>
           </Card>

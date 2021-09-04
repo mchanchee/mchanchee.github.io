@@ -38,7 +38,7 @@ function Header() {
                     hideWhenDoneDelay: 1000,
                   }}
                 >
-                  ML Engineer | CompSci @ UofT
+                  ML Engineer | CS @ UofT
                 </Typist>
               </div>
 
@@ -46,7 +46,7 @@ function Header() {
               <div className="social-networks">
                 <a
                   className="social-network-icon fab fa-linkedin fa-2x"
-                  href="https://www.linkedin.com/in/matthieu-chan-chee-883624138/"
+                  href="https://www.linkedin.com/in/matthieu-chan-chee/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

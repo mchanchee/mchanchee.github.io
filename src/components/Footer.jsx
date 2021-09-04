@@ -10,7 +10,7 @@ function Footer() {
         <div className="social-networks">
           <a
             className="social-network-icon fab fa-linkedin fa-3x"
-            href="https://www.linkedin.com/in/matthieu-chan-chee-883624138/"
+            href="https://www.linkedin.com/in/matthieu-chan-chee/"
             target="_blank"
             rel="noopener noreferrer"
           >

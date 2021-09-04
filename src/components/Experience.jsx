@@ -18,13 +18,21 @@ function Experience() {
           <div className="job-description col-md-9 order-md-2">
             <h3 className="job-heading display-4 pt-3">AMD</h3>
             <h4 className="text-muted job-subheading display-4">
-              Machine Learning Developer Intern
+              Machine Learning Engineer Intern
             </h4>
             <h4 className="text-muted job-subheading display-4">
-              June 2020 - Present
+              June 2020 - April 2021
             </h4>
 
-            <p></p>
+            <p>
+            - Developed Deep ConvNets to detect corruption in video games.
+            <br />- Improved model’s F1-score from 75.8% to 93.6% and implemented Grad-CAM heatmap generation for model interpretability. Co-authored research paper submitted to IEEE ICTAI 2021.
+            <br />- Implemented features to reduce the customers’ manual effort by 20x.
+            <br />- Leveraged AzureML to increase training experiments by 100x.
+            <br />- Selected and interviewed incoming Machine Learning interns.
+            <br />- Kickstarted AMD’s involvement with the University of Toronto’s MScAC program to welcome three 8-month graduate applied research interns for the first time in May 2021.
+            <br />- Organized and hosted professional development speaker series for the intern community.
+            </p>
           </div>
         </div>
 
@@ -98,7 +106,7 @@ function Experience() {
               >
                 Dr. Sarah Mayes-Tang
               </a>
-              <br /> - Held tutorials and office hours.
+              <br />- Held tutorials and office hours.
               <br />- Marked presentations, tests and assignments
             </p>
 

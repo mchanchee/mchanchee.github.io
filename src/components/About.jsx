@@ -19,16 +19,7 @@ function About() {
               an avid learner, hacker and problem-solver. I study{" "}
               <strong>Computer Science, Statistics and Math</strong> at the
               University of Toronto, with a focus on{" "}
-              <strong>Artificial Intelligence</strong>. Currently, I'm on a 12-month
-              internship at{" "}
-              <a
-                href="https://www.amd.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                AMD
-              </a>
-              , where I work on Machine Learning and Computer Vision.
+              <strong>Artificial Intelligence</strong>. 
               <br />
               <br />
 
@@ -42,7 +33,7 @@ function About() {
               >
                 Pearson Scholarship
               </a>
-              {" "}(~$280k). I was also Mauritius' first ever Computer Science Laureate (national top 9 students at Cambridge A Level).
+              {" "}(~$320k). I was also Mauritius' first ever Computer Science Laureate (national top 9 students at Cambridge A Level).
               <br />
               <br />
 

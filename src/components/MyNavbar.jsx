@@ -87,7 +87,7 @@ function MyNavbar() {
               duration={500}
             >
               <Nav.Link className="lead navbar-option" eventKey={4}>
-                Accolades
+                Accolades & Press Releases
               </Nav.Link>
             </Link>
           </Nav>

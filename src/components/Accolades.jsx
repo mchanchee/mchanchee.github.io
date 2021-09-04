@@ -8,41 +8,152 @@ function Accolades() {
       className="above-particles jumbotron jumbotron-fluid m-0"
     >
       <div className="container">
-        <h1 className="title display-3 pb-3">Accolades</h1>
+        <h1 className="title display-3 pb-3">Accolades & Press Releases</h1>
 
         <ul className="accolade-list">
+          {/* ProjectX */}
+          <li>
+            {" "}
+            <strong>World Champion</strong> of ProjectX 2020, a 3-month global
+            Machine Learning research competition. Our presentation and paper to
+            ICML 2021's TCCML workshop can be found{" "}
+            <a
+              href="https://www.climatechange.ai/papers/icml2021/26"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              here
+            </a>{" "}
+            and a short documentary on our project{" "}
+            <a
+              href="https://www.instagram.com/p/CRegsn9goYp/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              here
+            </a>
+            .
+            <ul>
+              <li>
+                <a
+                  href="https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  How to beat banana blight? Prize-winning U of T student team
+                  turns to novel neural network [Feb 2021]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.utoronto.ca/news/prize-winning-u-t-student-team-uses-ai-beat-banana-blight"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Prize-winning U of T student team uses AI to beat banana
+                  blight [Feb 2021]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.utoronto.ca/celebrates/team-six-university-toronto-students-wins-projectx-competition"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Team of six University of Toronto students wins ProjectX
+                  competition [Feb 2021]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://thevarsity.ca/2021/01/31/u-of-t-ai-conference-highlights-use-of-machine-learning-to-address-the-climate-crisis/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  U of T AI Conference highlights use of machine learning to
+                  address the climate crisis [Jan 2021]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://stmikes.utoronto.ca/news/st-michaels-students-bananas-compsci-research-helps-net-20k-research-prize"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  St. Michael’s Student’s “Bananas” CompSci Research Helps Net
+                  $20k Research Prize [Feb 2021]
+                </a>
+              </li>
+            </ul>
+          </li>
+          <br />
+
           {/* Pearson */}
           <li>
             {" "}
             Among the <strong>37 worldwide</strong> recipients of the{" "}
-            <a
-              href="https://future.utoronto.ca/pearson/2017-scholars/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Lester B. Pearson International Scholarship
-            </a>
-            , a <strong>4-year full-ride</strong> scholarship (~$280k) from the
-            University of Toronto
+            <strong>Lester B. Pearson International Scholarship</strong>, a
+            4-year full-ride scholarship (~$320k) from the University of Toronto
+            <ul>
+              <li>
+                <a
+                  href="https://future.utoronto.ca/pearson/2017-scholars/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Meet the 2017 Pearson Scholars [May 2017]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/watch?v=5WS4gxoOKlI"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  U of T welcomes our first cohort of Pearson Scholars [Sep 2017]
+                </a>
+              </li>
+            </ul>
           </li>
+          <br />
+
+          {/* aUToronto */}
+          <li>
+            {" "}
+            <strong>Champions of North America</strong> with aUToronto (UofT
+            self-driving car team) at SAE International AutoDrive Challenge 2021.
+            <ul>
+              <li>
+                <a
+                  href="https://www.utoronto.ca/news/u-t-engineering-team-places-first-autodrive-challenge-fourth-straight-year"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  U of T Engineering team places first in AutoDrive Challenge for fourth straight year [June 2021]
+                </a>
+              </li>
+            </ul>
+          </li>
+          <br />
 
           {/* NMO */}
           <li>
-            <strong>Ranked 1st</strong> at the National Mathematics Olympiad 2016
+            Ranked <strong>1st</strong> at the National Mathematics Olympiad
+            2016
+            <ul>
+              <li>
+                <a
+                  href="https://defimedia.info/rotary-national-mathematics-olympiad-matthieu-le-matheux-qui-frappe-fort"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Rotary National Mathematics Olympiad - Matthieu, the
+                  mathematician who strikes hard [June 2016, French]
+                </a>
+              </li>
+            </ul>
           </li>
-
-          {/* Wushu */}
-          <li>
-            {" "}
-            <strong>Gold medallist</strong> and triple{" "}
-            <strong>silver medallist</strong> at the National Kung Fu Championships
-          </li>
-
-          {/* Dragon Boat */}
-          <li>
-            Triple <strong>bronze medallist</strong> at the National Dragon Boat
-            Competition
-          </li>
+          <br />
 
           {/* Laureate */}
           <li>
@@ -51,6 +162,51 @@ function Accolades() {
             <strong>'Laureate'</strong> and university scholarships from the
             Government. In 2017, I became the{" "}
             <strong>first Computer Science Laureate in history</strong>.
+            <ul>
+              <li>
+                <a
+                  href="https://www.lexpress.mu/photos/299395/hsc-2016-laureats"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  HSC 2016: the laureates [Feb 2017, French]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://saro.edu.govmu.org/English/Rules-Regulations-Policies/Pages/The-Laureate.aspx"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Matthieu Chan Chee, Laureate of Sir Abdool Raman Osman SC's
+                  2016 batch [Feb 2017, French]
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/watch?v=3T13B81PdD0"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Laureates: Their school's pride [Feb 2017, French]
+                </a>
+              </li>
+            </ul>
+          </li>
+          <br />
+          
+          {/* Wushu */}
+          <li>
+            {" "}
+            <strong>Gold medallist</strong> and 3x{" "}
+            <strong>silver medallist</strong> at the National Kung Fu
+            Championships
+          </li>
+
+          {/* Dragon Boat */}
+          <li>
+            3x <strong>bronze medallist</strong> at the National Dragon Boat
+            Competition
           </li>
 
           {/* MakeUofT */}
@@ -70,15 +226,16 @@ function Accolades() {
 
           {/* CUSEC */}
           <li>
-            University of Toronto's <strong>Head of Delegation</strong> at the{" "}
+            University of Toronto's <strong>Head of Delegation</strong> of 71
+            students to{" "}
             <a
               href="https://2021.cusec.net/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Canadian University Software Engineering Conference 2021
-            </a>
-            .
+              CUSEC 2021
+            </a>{" "}
+            (Canadian University Software Engineering Conference).
           </li>
 
           {/* MUN */}
