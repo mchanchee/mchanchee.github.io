@@ -41,7 +41,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   How to beat banana blight? Prize-winning U of T student team
-                  turns to novel neural network [Feb 2021]
+                  turns to novel neural network [2021]
                 </a>
               </li>
               <li>
@@ -51,7 +51,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   Prize-winning U of T student team uses AI to beat banana
-                  blight [Feb 2021]
+                  blight [2021]
                 </a>
               </li>
               <li>
@@ -61,7 +61,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   Team of six University of Toronto students wins ProjectX
-                  competition [Feb 2021]
+                  competition [2021]
                 </a>
               </li>
               <li>
@@ -71,7 +71,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   U of T AI Conference highlights use of machine learning to
-                  address the climate crisis [Jan 2021]
+                  address the climate crisis [2021]
                 </a>
               </li>
               <li>
@@ -81,7 +81,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   St. Michael’s Student’s “Bananas” CompSci Research Helps Net
-                  $20k Research Prize [Feb 2021]
+                  $20k Research Prize [2021]
                 </a>
               </li>
             </ul>
@@ -101,7 +101,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Meet the 2017 Pearson Scholars [May 2017]
+                  Meet the 2017 Pearson Scholars [2017]
                 </a>
               </li>
               <li>
@@ -110,7 +110,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  U of T welcomes our first cohort of Pearson Scholars [Sep 2017]
+                  U of T welcomes our first cohort of Pearson Scholars [2017]
                 </a>
               </li>
             </ul>
@@ -129,7 +129,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  U of T Engineering team places first in AutoDrive Challenge for fourth straight year [June 2021]
+                  U of T Engineering team places first in AutoDrive Challenge for fourth straight year [2021]
                 </a>
               </li>
             </ul>
@@ -148,7 +148,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   Rotary National Mathematics Olympiad - Matthieu, the
-                  mathematician who strikes hard [June 2016, French]
+                  mathematician who strikes hard [2016, French]
                 </a>
               </li>
             </ul>
@@ -169,7 +169,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  HSC 2016: the laureates [Feb 2017, French]
+                  HSC 2016: the laureates [2017, French]
                 </a>
               </li>
               <li>
@@ -179,7 +179,7 @@ function Accolades() {
                   rel="noopener noreferrer"
                 >
                   Matthieu Chan Chee, Laureate of Sir Abdool Raman Osman SC's
-                  2016 batch [Feb 2017, French]
+                  2016 batch [2017, French]
                 </a>
               </li>
               <li>
@@ -188,7 +188,7 @@ function Accolades() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Laureates: Their school's pride [Feb 2017, French]
+                  Laureates: Their school's pride [2017, French]
                 </a>
               </li>
             </ul>
