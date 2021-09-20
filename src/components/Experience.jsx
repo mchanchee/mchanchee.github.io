@@ -26,7 +26,7 @@ function Experience() {
 
             <p>
             - Developed Deep ConvNets to detect corruption in video games.
-            <br />- Improved model’s F1-score from 75.8% to 93.6% and implemented Grad-CAM heatmap generation for model interpretability. Co-authored research paper submitted to IEEE ICTAI 2021.
+            <br />- Improved model’s F1-score from 75.8% to 93.6% and implemented Grad-CAM heatmap generation for model interpretability. Co-authored research paper submitted to the 17th International Conference on Computer Vision Theory and Applications (VISAPP 2022).
             <br />- Implemented features to reduce the customers’ manual effort by 20x.
             <br />- Leveraged AzureML to increase training experiments by 100x.
             <br />- Selected and interviewed incoming Machine Learning interns.
