@@ -41,7 +41,7 @@ function Projects() {
                   rel="noopener noreferrer"
                 >
                 here
-                </a> and a short documentary{" "}
+                </a> and a short documentary video{" "}
                 <a
                   href="https://www.instagram.com/p/CRegsn9goYp/"
                   target="_blank"

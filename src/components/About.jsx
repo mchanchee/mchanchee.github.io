@@ -36,6 +36,26 @@ function About() {
               {" "}(~$320k). I was also Mauritius' first ever Computer Science Laureate (national top 9 candidates / ~99.9% percentile at Cambridge A Level exams). 
               <br />
               <br />
+              More recently, I had the chance to be part of the 6-student UofT team that came out as{" "}
+              <a
+                href="https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                World Champions of the ProjectX global ML research competition 2020
+              </a> 
+              {" "}and presented our 
+              {" "}
+              <a
+                href="https://www.climatechange.ai/papers/icml2021/26"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                work
+              </a> 
+              {" "}at ICML 2021 (International Conference on Machine Learning).
+              <br />
+              <br />
 
 
               When I'm not fiddling with tech, I enjoy practising Kung Fu,
