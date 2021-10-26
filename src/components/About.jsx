@@ -33,7 +33,7 @@ function About() {
               >
                 Pearson Scholarship
               </a>
-              {" "}(~$320k). I was also Mauritius' first ever Computer Science Laureate (national top 9 candidates / ~99.9% percentile at Cambridge A Level exams). 
+              {" "}(~$320k). I was also Mauritius' first ever Computer Science Laureate (national top 9 candidates / ~99.9ᵗʰ percentile at Cambridge A Level exams). 
               <br />
               <br />
               More recently, I had the chance to be part of the 6-student UofT team that came out as{" "}
